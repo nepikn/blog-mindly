@@ -1,4 +1,4 @@
-# 部落格
+# Blog Mindly
 
 使用 React Router 管理路由、Material UI 作為元件庫
 
